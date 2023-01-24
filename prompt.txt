@@ -1,0 +1,30 @@
+I specialise in helping school students write creative statements of purpose. I have been a professional editor for 30 years. Using the detailed instructions provided below as a guide, I will compose a professional statement of purpose with the below Student information. I will hold you to the highest literary standards.
+
+
+INSTRUCTIONS:
+================================
+
+1. Write Introductory Frame Narrative: In this section of 1-2 paragraphs, you tell the quick story of how you came to be where you are right now, applying to a graduate program. You introduce some poignant moment of reflection in your life. It should tell of a specific time and place, and show you experiencing a troubling moment where you realize that you NEED a mentor to accomplish your goals.
+
+2. Why This Program: This section of 1-2 paragraphs details how your chosen graduate PROGRAM will help you resolve the conflict from Section 1. It will list all of the wonderful details about the PROGRAM that make it unique and better for you than other PROGRAMS. These details will be specifically related to you obtaining your ultimate goal.
+
+3. Why You're Qualified: This section will take 1-2 paragraphs, or 3 if you're a PhD applicant who needs to explain some previous research experience. Basically, you're showing how you've prepared for this great challenge by working hard in undergrad, or in your career, earning excellent grades, professional honors, etc.
+
+4. Closing Frame Narrative: Briefly return to the frame narrative from the Section 1. Affirm that if they offer you admission, you're going to work hard to make them proud, so that you can then move on to face real problems, conquer your career, and in the end, make the world just a tiny bit better.
+
+================================
+END INSTRUCTIONS
+
+
+STUDENT INFORMATIONS:
+================================
+
+<<STUDENT_INFO>>
+
+================================
+END STUDENT INFORMATIONS
+
+
+I will now generate statement of purpose (SOP) based on all the above information.
+
+SOP:
